@@ -1,6 +1,6 @@
 # Hi there, I'm Aadi Gupta! 👋
 
-[cite_start]I am a Computer Science student at **Purdue University** (Class of 2027) with a minor in Mathematics[cite: 5, 6, 11]. I have a strong background in **AI/ML**, **Full-Stack Development**, and **Algorithmic Problem Solving**.
+I am a Computer Science student at **Purdue University** (Class of 2027) with a minor in Mathematics. I have a strong background in **AI/ML**, **Full-Stack Development**, and **Algorithmic Problem Solving**.
 
 Currently, I am focused on building scalable software and applying machine learning models to solve real-world problems—from forecasting air quality to optimizing educational tools.
 
@@ -8,9 +8,9 @@ Currently, I am focused on building scalable software and applying machine learn
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **advanced NLP pipelines** and **full-stack web applications**.
-- [cite_start]🏆 **Competitive Programmer:** USACO Gold Division[cite: 42].
-- [cite_start]🎓 **Research:** Published author in IJCRT and IJISRT with a focus on ML applications in urban planning and emotion recognition[cite: 39, 40].
-- [cite_start]💼 **Experience:** Former Software Engineering Intern at **Schoyo** and Researcher at **ASDRP**[cite: 17, 23].
+- 🏆 **Competitive Programmer:** USACO Gold Division.
+- 🎓 **Research:** Published author in IJCRT and IJISRT with a focus on ML applications in urban planning and emotion recognition.
+- 💼 **Experience:** Former Software Engineering Intern at **Schoyo** and Researcher at **ASDRP**.
 
 ---
 
@@ -39,18 +39,18 @@ Currently, I am focused on building scalable software and applying machine learn
 
 **[ByteMatch](https://github.com/aadigupta07)**
 *A personalized recipe discovery app.*
-- [cite_start]Built with **TypeScript**, **Framer Motion**, and **MongoDB**[cite: 36, 37].
-- [cite_start]Implemented an image recognition pipeline with ~97% accuracy for food classification[cite: 35].
+- Built with **TypeScript**, **Framer Motion**, and **MongoDB**.
+- Implemented an image recognition pipeline with ~97% accuracy for food classification.
 
 **[Air Quality Forecasting](https://github.com/aadigupta07)**
 *Time-series modeling for environmental impact.*
-- [cite_start]Developed an **ARIMA** model to forecast air quality in Alameda County using 10+ years of data[cite: 26].
-- [cite_start]Improved prediction accuracy by ~15% over baseline models[cite: 26].
+- Developed an **ARIMA** model to forecast air quality in Alameda County using 10+ years of data.
+- Improved prediction accuracy by ~15% over baseline models.
 
 **[Emotion Recognition CNN](https://github.com/aadigupta07)**
 *Computer vision research.*
-- [cite_start]Trained a CNN in **TensorFlow** on 30,000+ images to classify facial expressions[cite: 27].
-- [cite_start]Achieved ~88% accuracy across diverse demographics[cite: 27].
+- Trained a CNN in **TensorFlow** on 30,000+ images to classify facial expressions.
+- Achieved ~88% accuracy across diverse demographics.
 
 ---
 
