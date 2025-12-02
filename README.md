@@ -54,14 +54,6 @@ Currently, I am focused on building scalable software and applying machine learn
 
 ---
 
-### 📊 GitHub Stats
-
-![Aadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadigupta07&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadigupta07&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadi-gupta/)
