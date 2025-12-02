@@ -56,10 +56,9 @@ Currently, I am focused on building scalable software and applying machine learn
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadigupta07&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadigupta07&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+![Aadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadigupta07&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadigupta07&layout=compact&theme=radical)
 
 ---
 
