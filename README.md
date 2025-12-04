@@ -37,17 +37,17 @@ Currently, I am focused on building scalable software and applying machine learn
 
 ### 💡 Featured Projects & Research
 
-**[ByteMatch](https://github.com/aadigupta07)**
+**[ByteMatch]**
 *A personalized recipe discovery app.*
 - Built with **TypeScript**, **Framer Motion**, and **MongoDB**.
 - Implemented an image recognition pipeline with ~97% accuracy for food classification.
 
-**[Air Quality Forecasting](https://github.com/aadigupta07)**
+**[Air Quality Forecasting]**
 *Time-series modeling for environmental impact.*
 - Developed an **ARIMA** model to forecast air quality in Alameda County using 10+ years of data.
 - Improved prediction accuracy by ~15% over baseline models.
 
-**[Emotion Recognition CNN](https://github.com/aadigupta07)**
+**[Emotion Recognition CNN]**
 *Computer vision research.*
 - Trained a CNN in **TensorFlow** on 30,000+ images to classify facial expressions.
 - Achieved ~88% accuracy across diverse demographics.
